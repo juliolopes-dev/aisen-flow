@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/header.tsx","./src/components/loading.tsx","./src/components/modalconfirmacao.tsx","./src/components/modaltarefa.tsx","./src/components/quadrante.tsx","./src/components/tarefacard.tsx","./src/components/toast.tsx","./src/services/api.ts","./src/types/tarefa.ts"],"version":"5.6.3"}
